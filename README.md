@@ -2,7 +2,7 @@
 
 A premium 4-page e-commerce website for a home & living brand.
 
-**Live demo:** _LIVE_URL_
+**Live demo:** https://lumiere-store-five.vercel.app
 
 > Demo data is generated in the browser and saved to `localStorage`, so every visitor gets their own sandbox. Create, edit and delete freely — use **Reset demo data** to start over.
 
